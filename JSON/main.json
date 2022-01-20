@@ -1,0 +1,54 @@
+[
+    {
+
+        "image" :  "./images/pro-9-400x400.jpg",
+        "name" : "Papaya Single",
+        "price" : "£746.64 £546.04",
+        "imageAlt" : "Papaya Single"
+    },
+    {
+        "image" :  "./images/pro-8-799x799.jpg",
+        "name" : "Cauliflower Pack 350g",
+        "price" : "£527.32",
+        "imageAlt" : "Cauliflower Pack 350g"
+    },
+    {
+        "image" :  "./images/pro-7-400x400.jpg",
+        "name" : "Kiwi Fruit Single",
+        "price" : "£100.13",
+        "imageAlt" : "Kiwi Fruit Single"
+    },
+    {
+        "image" :  "./images/pro-40-400x400.jpg",
+        "name" : "Beef Brisket Per kg",
+        "price" : "£37.90",
+        "imageAlt" : "Beef Brisket Per kg"
+    },
+    {
+        "image" :  "./images/pro-4-400x400.jpg",
+        "name" : "Freshmark Cut Spinach 250g",
+        "price" : "£448.26",
+        "imageAlt" : "Freshmark Cut Spinach 250g"
+    },
+    {
+        "image" :  "./images/pro-8-400x400.jpg",
+        "name" : "Freshmark Cut Spinach 250g",
+        "price" : "£448.26",
+        "imageAlt" : "Freshmark Cut Spinach 250g"
+    },
+    {
+        "image" :  "./images/pro-38-400x400.jpg",
+        "name" : "Frozen Angelfish Per kg",
+        "price" : "£647.32",
+        "imageAlt" : "Frozen Angelfish Per kg"
+    },
+    {
+        "image" :  "./images/pro-37-400x400.jpg",
+        "name" : "Gourmet Beef Sosaties Per kg",
+        "price" : "£646.97",
+        "imageAlt" : "Gourmet Beef Sosaties Per kg"
+    }
+    
+
+]
+
